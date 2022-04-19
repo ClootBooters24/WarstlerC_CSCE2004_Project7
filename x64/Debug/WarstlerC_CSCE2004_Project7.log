@@ -1,0 +1,7 @@
+﻿  WarstlerC_CSCE2004_Project7.cpp
+C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Project7\WarstlerC_CSCE2004_Project7.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cave.cpp
+C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Project7\cave.cpp(181,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  room.cpp
+  Generating Code...
+  WarstlerC_CSCE2004_Project7.vcxproj -> C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Project7\x64\Debug\WarstlerC_CSCE2004_Project7.exe
